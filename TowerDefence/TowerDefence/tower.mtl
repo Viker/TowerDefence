@@ -1,0 +1,9 @@
+newmtl initialShadingGroup
+illum 10
+Kd 0.00 0.00 0.00
+Ka 0.61 0.61 0.61
+Tf 1.00 1.00 1.00
+map_Kd humantower.TGA
+Ni 1.00
+Ns 1000.00
+Ks 1.00 0.58 0.00

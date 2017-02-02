@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TowerDefence", "TowerDefence\TowerDefence.vcproj", "{B2D120D7-66D9-43FD-B5E6-861B5FA13555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D120D7-66D9-43FD-B5E6-861B5FA13555}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2D120D7-66D9-43FD-B5E6-861B5FA13555}.Debug|Win32.Build.0 = Debug|Win32
+		{B2D120D7-66D9-43FD-B5E6-861B5FA13555}.Release|Win32.ActiveCfg = Release|Win32
+		{B2D120D7-66D9-43FD-B5E6-861B5FA13555}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
